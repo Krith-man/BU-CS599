@@ -1,0 +1,11 @@
+# UID1 Country Country_Score
+1 Italy 5
+2 France 4
+3 Greece 5
+4 England 2
+5 Germany 1
+6 Norway 5
+7 Poland 2
+8 Spain 5
+9 Portugal 3
+10 Sweden 2

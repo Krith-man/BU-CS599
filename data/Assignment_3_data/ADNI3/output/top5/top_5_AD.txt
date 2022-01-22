@@ -1,0 +1,5 @@
+TL hippocampus L
+TL anterior temporal lobe lateral part R
+TL fusiform gyrus L
+Lateral ventricle temporal horn L
+FL subgenual frontal cortex L

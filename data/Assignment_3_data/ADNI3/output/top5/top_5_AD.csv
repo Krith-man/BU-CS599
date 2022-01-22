@@ -1,0 +1,95 @@
+TL hippocampus R,0.0010223374337149968
+TL hippocampus L,0.0015279045176966237
+TL amygdala R,0.00012737609970797973
+TL amygdala L,-0.00030690997697956687
+TL anterior temporal lobe medial part R,0.00020354221708868508
+TL anterior temporal lobe medial part L,0.00034279476510088255
+TL anterior temporal lobe lateral part R,0.0014314526256968571
+TL anterior temporal lobe lateral part L,-6.700073214405784e-05
+TL parahippocampal and ambient gyrus R,-0.0014876852695331886
+TL parahippocampal and ambient gyrus L,0.0007361649203095617
+TL superior temporal gyrus middle part R,2.1222903399858533e-05
+TL superior temporal gyrus middle part L,-0.00011192489503044357
+TL middle and inferior temporal gyrus R,-5.693257654463929e-06
+TL middle and inferior temporal gyrus L,0.00012760348092744414
+TL fusiform gyrus R,0.0002162687439744661
+TL fusiform gyrus L,0.0013404145320819352
+cerebellum R,-0.0014013079548682904
+cerebellum L,0.00018600777144433698
+brainstem excluding substantia nigra,3.539483127708403e-05
+insula posterior long gyrus L,0.00036863378733897987
+insula posterior long gyrus R,0.0005338290106500414
+OL lateral remainder occipital lobe L,-6.233627323674782e-05
+OL lateral remainder occipital lobe R,2.124975819425186e-05
+CG anterior cingulate gyrus L,-0.0005287306453190017
+CG anterior cingulate gyrus R,0.0001793048178659079
+CG posterior cingulate gyrus L,-0.0007586146826459713
+CG posterior cingulate gyrus R,-0.00022025371319667796
+FL middle frontal gyrus L,-0.00014859248101090438
+FL middle frontal gyrus R,0.0
+TL posterior temporal lobe L,-5.7988830471519875e-05
+TL posterior temporal lobe R,-5.564207916290206e-06
+PL angular gyrus L,-0.00025874546668473166
+PL angular gyrus R,-0.00022878594887871447
+caudate nucleus L,1.3845337000620005e-05
+caudate nucleus R,0.00028510104628432696
+nucleus accumbens L,-0.00028241408191780314
+nucleus accumbens R,-4.508391496151761e-06
+putamen L,5.644120407478232e-05
+putamen R,-0.0002904219846542576
+thalamus L,-0.0019220821308534985
+thalamus R,2.8716035108633287e-05
+pallidum L,-0.00018993594980360373
+pallidum R,1.2027708225997857e-05
+corpus callosum,0.0006255599556778098
+Lateral ventricle excluding temporal horn R,-0.0006643114306992768
+Lateral ventricle excluding temporal horn L,-0.00023119737992769498
+Lateral ventricle temporal horn R,-0.00012117622565004973
+Lateral ventricle temporal horn L,0.0013116936164856105
+Third ventricle,0.0006641542948505332
+FL precentral gyrus L,-0.00040264165923552324
+FL precentral gyrus R,-9.35298728370615e-06
+FL straight gyrus L,-8.637471622223714e-05
+FL straight gyrus R,-0.00019231860810708522
+FL anterior orbital gyrus L,-6.203701559286354e-05
+FL anterior orbital gyrus R,-0.00018315074301236787
+FL inferior frontal gyrus L,-8.595987290113265e-05
+FL inferior frontal gyrus R,-2.6522697118340255e-05
+FL superior frontal gyrus L,-0.0024821008362783687
+FL superior frontal gyrus R,0.0
+PL postcentral gyrus L,0.0012014138149864105
+PL postcentral gyrus R,-3.1929747866982175e-05
+PL superior parietal gyrus L,-0.00012274478758495888
+PL superior parietal gyrus R,-0.0010463713687613955
+OL lingual gyrus L,-0.00019237728895274547
+OL lingual gyrus R,0.001191515099228313
+OL cuneus L,-0.0005289711954649457
+OL cuneus R,0.0006194344883150479
+FL medial orbital gyrus L,0.00017313341810226146
+FL medial orbital gyrus R,-3.089694967104844e-05
+FL lateral orbital gyrus L,0.00011639937429357832
+FL lateral orbital gyrus R,0.0002846357649173152
+FL posterior orbital gyrus L,3.184944479041619e-05
+FL posterior orbital gyrus R,0.0006192311860761166
+substantia nigra L,-0.0001082942139175406
+substantia nigra R,-3.199798712667847e-05
+FL subgenual frontal cortex L,0.0013013112486838197
+FL subgenual frontal cortex R,0.0010943435521223474
+FL subcallosal area L,0.00036299676063429847
+FL subcallosal area R,-4.7683033109266004e-05
+FL pre-subgenual frontal cortex L,-0.0001769667029720145
+FL pre-subgenual frontal cortex R,-9.210965870439306e-06
+TL superior temporal gyrus anterior part L,0.0002785731723298823
+TL superior temporal gyrus anterior part R,0.0005615095928653983
+PL supramarginal gyrus L,0.0003034871240094728
+PL supramarginal gyrus R,-4.301180153493094e-05
+insula anterior short gyrus L,0.00019729613721234177
+insula anterior short gyrus R,0.00018607130716490582
+insula middle short gyrus L,-4.918305579598714e-06
+insula middle short gyrus R,-8.599498899226432e-06
+insula posterior short gyrus L,-1.1305921839439804e-05
+insula posterior short gyrus R,-0.0010775293455282228
+insula anterior inferior cortex L,-3.869954494327309e-06
+insula anterior inferior cortex R,7.943524633085934e-05
+insula anterior long gyrus L,0.0004964969416609142
+insula anterior long gyrus R,-0.0008865853264955186

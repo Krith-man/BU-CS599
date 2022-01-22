@@ -1,0 +1,21 @@
+# UID1 Town Town_Score
+1 Rome 5
+1 Milano 4
+1 Torino 3
+2 Paris 4
+2 Lyon 3
+3 Athens 2
+3 Chania 5
+4 London 3
+4 Liverpool 4
+5 Berlin 4
+5 Munich 1
+6 Oslo 5
+7 Warsaw 3
+7 Krakow 2
+8 Madrid 3
+8 Barcelona 5
+9 Lisbon 3
+9 Porto 4
+10 Stockholm 5
+10 Uppsala 5

@@ -1,0 +1,2 @@
+Number of test MRIs correctly classified: 6 out of 7
+Number of background MRIs correctly classified: 12 out of 12

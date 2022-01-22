@@ -1,0 +1,10 @@
+path,filename,age,gender,education,hispanic,race,apoe,NC,MCI,DE,COG,AD,PD,FTD,VD,DLB,PDD,ADD,OTHER,mmse,cdr,cdrSum,moca,lm_imm,lm_del,boston,animal,vege,gds,Tesla
+/data/Assignment_3_data/ADNI3/,ADNI_135_S_6359_MR_Accelerated_Sag_IR-FSPGR___br_raw_20190626133710579_131_S836492_I1180846.npy,68,female,20,2,whi,1.0,1,0,0,0,0,,0.0,0.0,0.0,0.0,,0.0,30,0.0,0.0,30,19,17,,26,,0.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_135_S_6509_MR_Accelerated_Sag_IR-FSPGR___br_raw_20190806143145652_41_S847764_I1195531.npy,65,male,16,2,whi,0.0,1,0,0,0,0,,0.0,0.0,0.0,0.0,,0.0,30,0.0,0.0,28,10,10,,28,,0.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_019_S_6533_MR_Sagittal_3D_Accelerated_0_angle_MPRAGE_br_raw_20190830092746697_88_S869514_I1222089.npy,72,male,18,2,whi,0.0,0,1,0,1,0,,0.0,0.0,0.0,0.0,,0.0,30,0.5,2.5,28,8,4,,18,,2.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_135_S_6389_MR_Accelerated_Sag_IR-FSPGR___br_raw_20190710091131883_145_S839966_I1185266.npy,70,male,20,2,whi,1.0,0,0,1,2,1,,,,,,1.0,,24,1.0,5.0,28,9,8,,28,,5.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_099_S_6038_MR_Accelerated_Sag_IR-FSPGR___br_raw_20181112140012329_32_S746377_I1071981.npy,77,male,16,2,whi,0.0,1,0,0,0,0,,0.0,0.0,0.0,0.0,,0.0,30,0.0,0.0,20,15,14,,22,,0.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_127_S_6433_MR_Accelerated_Sagittal_IR-FSPGR__br_raw_20190913114458396_160_S873002_I1226436.npy,76,male,16,1,whi,1.0,0,0,1,2,1,,,,,,1.0,,24,0.5,4.0,19,6,1,,10,,3.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_023_S_6661_MR_Accelerated_Sagittal_MPRAGE__br_raw_20200227110122084_171_S929150_I1296792.npy,75,female,15,2,whi,0.0,0,0,1,2,1,,,,,,1.0,,18,1.0,6.5,12,3,4,,5,,2.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_141_S_6008_MR_Accelerated_Sagittal_MPRAGE__br_raw_20181228094352441_135_S771808_I1101652.npy,63,female,16,2,whi,0.0,1,0,0,0,0,,0.0,0.0,0.0,0.0,,0.0,29,0.0,0.0,27,17,14,,24,,1.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_098_S_6593_MR_Sag_Accel_IR-FSPGR_br_raw_20191219134307106_124_S907047_I1269091.npy,84,female,19,2,ans,0.0,0,1,0,1,0,,0.0,0.0,0.0,0.0,,0.0,27,0.5,1.5,26,8,8,,19,,3.0,3

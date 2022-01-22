@@ -1,0 +1,11 @@
+path,filename,age,gender,education,hispanic,race,apoe,NC,MCI,DE,COG,AD,PD,FTD,VD,DLB,PDD,ADD,OTHER,mmse,cdr,cdrSum,moca,lm_imm,lm_del,boston,animal,vege,gds,Tesla
+/data/Assignment_3_data/ADNI3/,ADNI_135_S_6510_MR_Accelerated_Sag_IR-FSPGR___br_raw_20190823121302839_11_S863934_I1215774.npy,67,male,17,2,whi,1.0,1,0,0,0,0,,0.0,0.0,0.0,0.0,,0.0,29,0.0,0.0,30,18,16,,28,,0.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_099_S_6632_MR_Accelerated_Sag_IR-FSPGR___br_raw_20200207123735297_1_S920619_I1286418.npy,74,female,14,2,whi,0.0,0,1,0,1,0,,0.0,0.0,0.0,0.0,,0.0,22,0.5,1.5,12,1,1,,7,,5.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_135_S_6446_MR_Accelerated_Sag_IR-FSPGR___br_raw_20190711143406269_109_S840461_I1185903.npy,61,male,12,2,whi,0.0,0,1,0,1,0,,0.0,0.0,0.0,0.0,,0.0,27,0.5,1.5,26,16,9,,21,,0.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_011_S_6303_MR_Accelerated_Sagittal_MPRAGE__br_raw_20190430142811025_189_S819896_I1160021.npy,71,male,16,2,whi,0.0,0,0,1,2,1,,,,,,1.0,,23,1.0,5.0,18,7,0,,8,,2.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_022_S_6013_MR_Sagittal_3D_Accelerated_MPRAGE_br_raw_20190314145101831_129_S806245_I1142379.npy,61,female,12,2,whi,0.0,0,0,1,2,1,,,,,,1.0,,23,1.0,5.5,18,2,0,,14,,5.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_135_S_6545_MR_Accelerated_Sag_IR-FSPGR___br_raw_20190913133638192_107_S873086_I1226543.npy,61,female,14,2,whi,1.0,0,0,1,2,1,,,,,,1.0,,20,1.0,8.0,12,9,4,,10,,2.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_130_S_6612_MR_Sagittal_3D_Accelerated_MPRAGE_br_raw_20200205172217741_183_S920078_I1285682.npy,68,female,19,2,whi,1.0,0,1,0,1,0,,0.0,0.0,0.0,0.0,,0.0,29,0.5,1.0,24,7,5,,20,,0.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_135_S_6104_MR_Accelerated_Sag_IR-FSPGR___br_raw_20181108151429522_72_S745808_I1071232.npy,69,male,20,2,whi,1.0,1,0,0,0,0,,0.0,0.0,0.0,0.0,,0.0,30,0.0,0.0,30,14,13,,27,,2.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_116_S_6428_MR_Accelerated_Sagittal_MPRAGE__br_raw_20190626150912212_128_S836646_I1181047.npy,59,male,16,2,whi,1.0,0,1,0,1,0,,0.0,0.0,0.0,0.0,,0.0,29,0.5,0.5,21,7,7,,21,,4.0,3
+/data/Assignment_3_data/ADNI3/,ADNI_168_S_6619_MR_Accelerated_Sagittal_MPRAGE__br_raw_20191216155501781_77_S905551_I1267220.npy,72,male,12,2,whi,0.0,0,1,0,1,0,,0.0,0.0,0.0,0.0,,0.0,27,0.5,1.0,25,6,4,,18,,2.0,3
